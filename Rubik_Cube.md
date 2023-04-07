@@ -1,3 +1,3 @@
-#Rubik-Cube 
+Rubik-Cube 
    
       
