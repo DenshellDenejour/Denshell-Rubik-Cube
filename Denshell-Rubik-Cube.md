@@ -1,3 +1,0 @@
-# Denshell-Rubik-Cube
-
-      
